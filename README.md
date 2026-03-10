@@ -1,1 +1,1 @@
-# 02-repositorio-web-vscode-bidkar
+# 02-repositorio-web-vscode-bidkar*Practicando git*
